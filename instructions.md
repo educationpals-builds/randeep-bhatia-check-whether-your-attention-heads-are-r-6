@@ -1,0 +1,1 @@
+Your inspection compiles into a live head-map interrogator and a public repo. A stranger points it at their own attention setup and gets your discipline — the walk, the per-head numbers, the tripwire — applied to their model.
