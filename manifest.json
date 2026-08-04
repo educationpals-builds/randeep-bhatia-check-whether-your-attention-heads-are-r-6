@@ -1,0 +1,40 @@
+{
+  "verificationToken": "01KZ5QPZVCH5VJDJRCBPHNR7GX",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "f08a37ef-1040-5bf3-b80c-7b920f5c9251",
+  "templateId": "baw_c002_ch05",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/head-map-interrogator.md",
+      "path": "blueprints/head-map-interrogator.md"
+    },
+    {
+      "id": "prompts/split-walk-pack.md",
+      "path": "prompts/split-walk-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-08-04T06:34:56.236Z",
+  "compositionMode": "shipgen"
+}
